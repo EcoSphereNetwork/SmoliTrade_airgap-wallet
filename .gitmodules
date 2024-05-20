@@ -13,3 +13,6 @@
 [submodule "SmoliTrade-App"]
 	path = SmoliTrade-App
 	url = NFT
+[submodule "Smolit-Asstistant"]
+	path = Smolit-Asstistant
+	url = NFT
