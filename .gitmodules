@@ -1,3 +1,6 @@
 [submodule "Smallet"]
 	path = Smallet
 	url = NFT
+[submodule "EcoSphere-Networks"]
+	path = EcoSphere-Networks
+	url = NFT
