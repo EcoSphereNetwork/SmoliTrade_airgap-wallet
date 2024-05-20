@@ -16,3 +16,6 @@
 [submodule "Smolit-Asstistant"]
 	path = Smolit-Asstistant
 	url = NFT
+[submodule "SmoliTradeOS"]
+	path = SmoliTradeOS
+	url = NFT
