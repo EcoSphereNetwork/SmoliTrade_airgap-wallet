@@ -4,3 +4,6 @@
 [submodule "EcoSphere-Networks"]
 	path = EcoSphere-Networks
 	url = NFT
+[submodule "Smolitux-Suite"]
+	path = Smolitux-Suite
+	url = NFT
